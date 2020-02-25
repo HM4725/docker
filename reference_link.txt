@@ -1,0 +1,10 @@
+1. setting korean
+    https://www.44bits.io/ko/post/setup_linux_locale_on_ubuntu_and_debian_container
+2. timezone
+    https://poppy-leni.tistory.com/entry/Docker-Timezone-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0-Host%EC%99%80-%EB%B3%84%EA%B0%9C%EB%A1%9C-use-Python
+3. zsh
+    https://nesoy.github.io/articles/2017-03/ZSH
+    https://github.com/romkatv/powerlevel10k
+4. rbenv
+    https://jekyllrb-ko.github.io/docs/installation/
+    https://hoisharka.github.io/jekyll/2017/12/01/jekyll-start/
