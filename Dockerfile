@@ -12,7 +12,7 @@ ENV TZ Asia/Seoul
 
 # vim
 RUN apt-get install -y vim
-COPY file/vimrc .vimrc
+COPY file/vimrc /root/.vimrc
 
 # oh-my-zsh
 RUN apt-get install -y zsh git curl
